@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm Jason Tan 👋
 
 <!--
 **Jason-Tan1/Jason-Tan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
