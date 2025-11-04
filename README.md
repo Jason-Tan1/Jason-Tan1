@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jason-tan1&label=Profile%20views&color=0e75b6&style=flat" alt="jason-tan1" /> </p>
 
-- 🔭 I’m currently working on **Amazon Clone**
+- 🔭 I’m currently working on **LifeByDorm**
 
-- 🌱 I’m currently learning **React, Express, Java, and Javascript**
+- 🌱 I’m currently learning **Building Full-Stack Web Apps powered with AI**
 
 - 📫 How to reach me **jasontanwork1@gmail.com**
 
