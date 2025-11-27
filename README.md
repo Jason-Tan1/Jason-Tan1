@@ -2,7 +2,8 @@
 <h3 align="center">A passionate software engineer/developer based in Toronto, Canada</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on LifeByDorm<br>⚡ Coding EVERYDAY (at least try to!)
+#### 🔭 I’m currently working on LifeByDorm
+#### ⚡ Coding EVERYDAY (at least try to!)
 
 
 ## 🌐 Socials:
@@ -13,12 +14,8 @@
 
 # 🏆 Achievements
 
-### 🥇 1st Place – CSHub Hack Day Hackathon
-### 🤖 Best Use of Gemini AI – CSHub Hack Day Hackathon
+#### 🥇 1st Place – CSHub Hack Day Hackathon
+#### 🤖 Best Use of Gemini AI – CSHub Hack Day Hackathon
 Awarded $400 for building **TenantShield**, an AI-powered tool to help renters identify housing issues and understand their rights.
-
-🔗 **Project Repository:**  
-👉 [github.com/Jasontan1/TenantShield](https://github.com/Jasontan1/TenantShield)
- 
 
 
