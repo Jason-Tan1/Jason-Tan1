@@ -14,8 +14,8 @@
 
 # 🏆 Achievements
 
-#### 🥇 1st Place – CSHub Hack Day Hackathon
-#### 🤖 Best Use of Gemini AI – CSHub Hack Day Hackathon
-Awarded $400 for building **TenantShield**, an AI-powered tool to help renters identify housing issues and understand their rights.
+#### 🥇 1st Place – CSHub Hack Day Hackathon (TenantShield)
+#### 🤖 Best Use of Gemini AI – CSHub Hack Day Hackathon (TenantShield)
+
 
 
