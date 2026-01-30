@@ -4,11 +4,12 @@
 <p align="center">
   <a href="https://www.jasontan.dev/"><strong>Portfolio Website</strong></a> •
   <a href="https://linkedin.com/in/jasontan1"><strong>LinkedIn</strong></a> •
-  <a href="mailto:jasontanwork1@gmail.com"><strong>Email</strong></a>
+  <a href="mailto:jasontanwork1@gmail.com"><strong>Email</strong></a> •
+  <a href="https://devpost.com/jatan2745"><strong>Devpost</strong></a> 
 </p>
 
 # 💫 About Me:
-#### 🔭 I’m currently working on LifeByDorm
+#### 🔭 I’m currently working on [LifeByDorm](https://www.lifebydorm.ca/)
 #### 🥇 1st Place & "Best Use of Gemini" at York University's CSHub Hackathon ([TenantShield](https://github.com/Jason-Tan1/TenantShield))
 #### ⚡ Coding EVERYDAY (at least try to!)
 # 💻 Technical Skills
