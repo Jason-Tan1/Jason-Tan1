@@ -10,10 +10,10 @@
 
 #  About Me:
 * **Founder of [LifeByDorm](https://www.lifebydorm.ca/)** — Architecting a scalable B2C platform for 1000+ Canadian university students and 50+ reviews.
-* **Software Engineer Intern @ [LangPal](https://www.lang-pal.com/)** — Developing a language learning mobile app with Flutter and FastAPI.
+* **Software Engineer Intern @ [LangPal](https://www.lang-pal.com/)** — Developing a speech-to-speech language learning mobile app with Flutter and FastAPI.
 * **AI & Software Engineer @ [Happy Nutrition Academy](https://www.healthacademy.ca/) (Contract)** — Engineering custom AI solutions and full-stack migrations.
 * **1st Place and "Best Use of Gemini" at CSHub Hackathon ([TenantShield](https://github.com/Jason-Tan1/TenantShield))** — Automated hazard detection using Gemini Vision AI.
-* **Software Developer @ [YU Blueprint](https://yublueprint.org/)** — Building automated donation management systems for non-profits.
+* **Software Developer @ [YU Blueprint](https://yublueprint.org/)** — Building automated donation management systems for a non-profit organiation.
 
 # Technical Skills
 
