@@ -9,6 +9,7 @@
 </p>
 
 #  About Me:
+* **Computer Science @ York University, Lassonde School of Engineering**
 * **Founder of [LifeByDorm](https://www.lifebydorm.ca/)** — Architecting a scalable B2C platform for 1000+ Canadian university students and 50+ reviews.
 * **Software Engineer Intern @ [LangPal](https://www.lang-pal.com/)** — Developing a speech-to-speech language learning mobile app with Flutter and FastAPI.
 * **AI & Software Engineer @ [Happy Nutrition Academy](https://www.healthacademy.ca/) (Contract)** — Engineering custom AI solutions and full-stack migrations.
