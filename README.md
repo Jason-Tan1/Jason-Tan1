@@ -15,6 +15,7 @@
 * **AI & Software Engineer @ [Happy Nutrition Academy](https://www.healthacademy.ca/) (Contract)** — Engineering custom AI solutions and full-stack migrations.
 * **1st Place and "Best Use of Gemini" at CSHub Hackathon ([TenantShield](https://github.com/Jason-Tan1/TenantShield))** — Automated hazard detection using Gemini Vision AI.
 * **Software Developer @ [YU Blueprint](https://yublueprint.org/)** — Building automated donation management systems for a non-profit organiation.
+* **Seeking 2026 Summer Software Engineer Internships**
 
 # Technical Skills
 
