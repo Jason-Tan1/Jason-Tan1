@@ -3,14 +3,14 @@
 
 <p align="center">
   <a href="https://www.jasontan.dev/"><strong>Portfolio Website</strong></a> •
-  <a href="https://linkedin.com/in/jasontan1"><strong>LinkedIn</strong></a> •
+  <a href="https://linkedin.com/in/jasontan5"><strong>LinkedIn</strong></a> •
   <a href="mailto:jasontanwork1@gmail.com"><strong>Email</strong></a> •
   <a href="https://devpost.com/jatan2745"><strong>Devpost</strong></a> 
 </p>
 
 #  About Me:
 * **Computer Science @ York University, Lassonde School of Engineering**
-* **Founder of [LifeByDorm](https://www.lifebydorm.ca/)** — Architecting a scalable B2C platform for 1000+ Canadian university students and 50+ reviews.
+* **Founder of [LifeByDorm](https://www.lifebydorm.ca/)** — Architecting a scalable B2C platform for 2000+ Canadian university students and 100+ reviews.
 * **Software Engineer Intern @ [LangPal](https://www.lang-pal.com/)** — Developing a speech-to-speech language learning mobile app with Flutter and FastAPI.
 * **AI & Software Engineer @ [Happy Nutrition Academy](https://www.healthacademy.ca/) (Contract)** — Engineering custom AI solutions and full-stack migrations.
 * **1st Place and "Best Use of Gemini" at CSHub Hackathon ([TenantShield](https://github.com/Jason-Tan1/TenantShield))** — Automated hazard detection using Gemini Vision AI.
