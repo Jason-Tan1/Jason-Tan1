@@ -13,7 +13,6 @@
 * **Incoming Software Engineer Intern @ [Future Buildings](https://www.linkedin.com/company/future-buildings/)** — Incoming Summer 2026
 * **Founder of [LifeByDorm](https://www.lifebydorm.ca/)** — Architecting a scalable B2C student hub for 4000+ Canadian students and 100+ reviews for dorms.
 * **Software Engineer Intern @ [LangPal](https://www.lang-pal.com/)** — Developing a speech-to-speech language learning mobile app with Flutter and FastAPI.
-* **AI & Software Engineer @ [Happy Nutrition Academy](https://www.healthacademy.ca/) (Contract)** — Engineering custom AI solutions and full-stack migrations.
 * **1st Place and "Best Use of Gemini" at CSHub Hackathon ([TenantShield](https://github.com/Jason-Tan1/TenantShield))** — Automated hazard detection using Gemini Vision AI.
 * **Software Developer @ [YU Blueprint](https://yublueprint.org/)** — Building automated donation management systems for a non-profit organiation.
 
