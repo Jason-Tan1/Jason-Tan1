@@ -9,9 +9,9 @@
 </p>
 
 #  About Me:
-* **Founder of [LifeByDorm](https://www.lifebydorm.ca/)** — Building and growing a scalable B2C student app for 6000+ Canadian students and 150+ reviews for dorms.
-* **Incoming Software Engineer Intern @ [Future Buildings](https://www.linkedin.com/company/future-buildings/)** — Incoming Summer 2026
-* **prev Software Engineer Intern @ [LangPal](https://www.lang-pal.com/)** — Contributed in developing a speech-to-speech language learning mobile app with Flutter and FastAPI.
+* **Founder of [LifeByDorm](https://www.lifebydorm.ca/)** — Building a scalable B2C student app for 8000+ Canadian students and 150+ reviews for dorms.
+* **Software Engineer Intern @ [Future Buildings](https://www.linkedin.com/company/future-buildings/)** — Developing backend APIs and internal tools for 250+ sales reps and 350,000+ leads.
+* **prev Software Engineer Intern @ [LangPal](https://www.lang-pal.com/)** — Contributed in developing a speech-to-speech language learning mobile app
 * **Software Developer @ [YU Blueprint](https://yublueprint.org/)** — Building automated donation management systems for a non-profit organiation.
 * **Computer Science @ York University, Lassonde School of Engineering**
 * **1st Place and "Best Use of Gemini" at CSHub Hackathon ([TenantShield](https://github.com/Jason-Tan1/TenantShield))** — Automated hazard detection using Gemini Vision AI.
