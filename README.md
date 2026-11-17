@@ -10,7 +10,7 @@
 
 #  About Me:
 * **Founder of [LifeByDorm](https://www.lifebydorm.ca/)** - Building a scalable B2C student app for 10,000+ Canadian students and 250+ reviews for dorms.
-* **SWE Intern @ [EQ Bank](https://www.linkedin.com/company/-eqbank)** — Incoming Fall 2026 and Winter 2027
+* **SWE Intern @ [EQ Bank](https://www.linkedin.com/company/-eqbank)** — Converting manual processes into automated workflows.
 * **prev. SWE Intern @ [Future Buildings](https://www.linkedin.com/company/future-buildings/)** — Developed backend APIs and tools for 250+ sales reps and 3,500,000+ leads.
 * **prev. SWE Intern @ [LangPal](https://www.lang-pal.com/)** — Contributed in developing a speech-to-speech language learning mobile app
 * **Software Developer @ [YU Blueprint](https://yublueprint.org/)** — Building software for non-profit organiations.
